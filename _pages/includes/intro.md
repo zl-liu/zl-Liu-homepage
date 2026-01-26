@@ -11,6 +11,14 @@ Zhengliang Liu is a Ph.D. student at the [University of Georgia](https://www.uga
 
 My research interests lie at the intersection of Artificial Intelligence, Large Language Models (LLMs), and Healthcare. I am particularly passionate about Multi-modal Learning, which seeks to synergize diverse data modalities—such as clinical text, medical imaging, and structured electronic health records—to construct holistic and context-aware AI systems. In parallel, I aim to leverage cutting-edge Generative AI techniques to tackle real-world biomedical and clinical challenges, such as model reliability, reasoning under uncertainty, and clinical workflow automation. Another key area of interest is AI for Social Good, particularly in utilizing AI agents to democratize access to high-quality education and healthcare resources. I focus on developing robust, human-centered AI solutions that not only advance technical frontiers but also drive tangible positive impacts on patient outcomes and societal well-being.
 
+# 💼 Professional Experience
+- *Dec. 2024 -- Oct. 2025*: Casium(AI2 Incubator Spin-out), Remote / Seattle, WA, **Founding Applied AI Scientist (Full Time)**.
+- *Sep. 2023 -- Oct. 2024*: Hippocratic AI, Palo Alto, CA, **Research Scientist (Full Time)**.
+- *Sep. 2022 -- Sep. 2024*: Mayo Clinic, Scottsdale, AZ, **Research Affiliate**.
+- *May. 2023 -- Sep. 2023*: Harvard Medical School & MGH, Boston, MA, **Research Associate**.
+- *May. 2022 -- Sep. 2022*: Mayo Clinic, Scottsdale, AZ, **Research Intern**.
+- *May. 2021 -- Sep. 2021*: Mayo Clinic, Scottsdale, AZ, **Research Intern**.
+
 # 🎓 Education
 - **University of Georgia**: Ph.D. in Computer Science, GPA: 4.0/4.0, *Jun. 2026 (expected graduation)*
 - **Washington University in St. Louis**: Master of Science in Computer Science, GPA: 3.9/4.0, *2021*
