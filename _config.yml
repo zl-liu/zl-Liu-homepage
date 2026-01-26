@@ -9,7 +9,7 @@
 title                    : "Zhengliang Liu"
 description              : "A PH.D. student from University of Georgia"
 repository               : "CounterDreamer/Zhengliang-Liu.github.io"
-#baseurl                  : #"/Zhengliang-Liu.github.io"  # ← 添加这行
+baseurl                  : "/Zhengliang-Liu.github.io" 
 google_scholar_stats_use_cdn : true
 
 # # google analytics
