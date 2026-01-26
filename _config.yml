@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zhengliang Liu"
 description              : "A PH.D. student from University of Georgia"
-repository               : "counterdreamer.github.io/zl-Liu-homepage"
+repository               : "counterdreamer/zl-Liu-homepage"
 baseurl                  : "/zl-Liu-homepage" 
 google_scholar_stats_use_cdn : true
 
