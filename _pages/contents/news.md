@@ -1,32 +1,27 @@
 # 🔥 News
-- *2025.02*: One paper on GPT for Alzheimer’s disease infodemiology is accepted by PLOS Global Public Health.
-- *2025.01*: One paper on active learning is accepted by Big Data Mining and Analytics (BDMA).
-- *2024.12*: One paper on diffusion-based cardiac fluoroscopy video generation is accepted by AAAI 2025.
-- *2024.10*: One review paper **Artificial General Intelligence for Medical Imaging Analysis** is accepted by IEEE Reviews in Biomedical Engineering (RBME).
-- *2024.08*: One paper is accepted by Medical Image Analysis (MedIA).
-- *2024.06*: One paper on brain-inspired visual attention decoding is accepted by IEEE Transactions on Multimedia (TMM).
-- *2024.06*: One paper on radiology NLI task is accepted by IEEE Transactions on Big Data (TBD).
-- *2024.06*: One paper on mask-guided vision transformer is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- *2024.06*: One paper on dynamic coronary roadmapping is accepted by MICCAI 2024.
-- *2024.05*: One paper on text data augmentation with ChatGPT is accepted by IEEE Transactions on Big Data (TBD).
-- *2024.01*: One paper on gyri/sulci functional difference is accepted by Cerabral Cortex.
-- *2024.01*: One paper on brain structural connectivity guided vision transformers is accepted by IEEE Journal of Biomedical and Health Informatics (JBHI).
-- *2023.12*: Our review paper **Review of Large Vision Models and Visual Prompt Engineering** is accepted by Meta-Radiology.
-- *2023.12*: Our Instruction-ViT paper is accepted by Information Fusion.
-- *2023.12*: One paper on relational graph of vision transformer AI is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- *2023.11*: One paper on multi-band EEG tranformer is accepted by IEEE Transactions on Biomedical Engineering (TBME).
-- *2023.10*: One paper is accepted by International Conference on Bioinformatics and Biomedicine (BIBM) (Acceptance Rate: 19.5%).
-- *2023.08*: One paper on rectifying shortcut learning in vision transformer is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- *2023.08*: Two papers are accepted by MLMI 2024.
-- *2023.08*: Our review paper **Summary of ChatGPT-Related Research and Perspective towards the Future of Large Language Models** is accepted by Meta-Radiology.
-- *2023.07*: One paper on brain function embedding is accepted by Medical Image Analysis (MedIA).
-- *2024.06*: One paper is accepted by MICCAI 2023.
-- *2023.06*: One paper is accepted by International Conference on Advanced Data Mining and Applications (ADMA).
-- *2023.06*: One paper on eye-gaze guided vision transformer AI is accepted by IEEE Transactions on Medical Imaging (TMI).
-- *2023.05*: One paper on brain-inspired AI is accepted by IEEE Transactions on Cognitive and Developmental Systems (TCDS).
-- *2023.05*: I received my Ph.D. degree in Computer Science from the University of Georiga, Athens, GA.
-- *2023.05*: One paper is accepted by Findings of the Association for Computational Linguistics (ACL) 2023.
-- *2023.03*: I joined United Imaging Intelligence (UII) America as a Senior Research Scientist.
-- *2023.02*: I successfully defended my Ph.D. dissertation.
-- *2023.02*: One paper on differential diagnosis of Parkinsonism is accepted by IPMI 2023.
+## 2026
+- *2026.01*: Invited to serve as a Program Committee Member for the **International Conference on Artificial Intelligence in Education (AIED)**.
+- *2026.01*: One paper on Large language models for bioinformatics will appear in **Quantitative Biology*.
+- *2026.01*: One paper on NISQ-Aware Quantum Adapter for Medical Vision-Language Models is accepted by **ISBI**.
 
+## 2025
+- *2025.08*: One paper on AD-AutoGPT is accepted by **PLOS Global Public Health**.
+- *2025.07*: One paper on “AugGPT: Leveraging ChatGPT for Text Data Augmentation” is accepted by **IEEE Transactions on Big Data**.
+- *2025.05*: Our paper “Understanding LLMs: A Comprehensive Overview from Training to Inference” has been published in **Neurocomputing**.
+- *2025.03*: Our paper “Robust Optimization for Spot-Scanning Proton Therapy” is accepted by **International Journal of Radiation Oncology, Biology, Physics (IJROBP)**.
+- *2025.02*: One paper on PharmacyGPT is published in **BMC Medical Informatics and Decision Making**.
+- *2025.01*: Our work on Fine-tuning open-source large language models on radiation oncology tasks is accepted by **Medical Physics**.
+- 
+## 2024
+- *2024.12*: Our paper “Eye-gaze guided multi-modal alignment for medical representation learning” is accepted by the **NeurIPS** conference in Vancouver.
+- *2024.09*: Officially started the GENIUS Center (National Center on Generative AI for Uplifting STEM+C Education), funded by **IES** with a total award of **$10M**.
+- *2024.08*: One paper “An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT” is accepted by **IEEE Transactions on Artificial Intelligence**.
+- *2024.08*: Received a **$2.3M** NIH R01 grant (Co-I) to investigate Dose-LET volume histograms in spot scanning proton therapy.
+- *2024.07*: Our paper on model safety, “TrustLLM: Trustworthiness in large language models”, is presented by **ICML** in Vienna.
+- *2024.03*: One paper “A generalist vision-language foundation model for diverse biomedical tasks” is accepted by **Nature Medicine**.
+- *2024.02*: Our paper “Surviving ChatGPT in Healthcare” is accepted by **Frontiers in Radiology**.
+
+## 2023
+- *2023.09*: Joined **Hippocratic AI** (Palo Alto, CA) as a Research Scientist to build safety-focused generative AI healthcare agents.
+- *2023.07*: One paper “Context Matters: Strategy to Pre-train Language Model for Science Education” is accepted by **AIED** in Tokyo.
+- *2023.06*: Our work “RadOnc-GPT”, the first domain-specific LLM for radiation oncology, was featured by **Meta AI**.
