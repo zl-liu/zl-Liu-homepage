@@ -1,8 +1,8 @@
 
-# 📝 Recent Publications [[more...]](\publications\)
+# 📝 Recent Publications [[more...]]({{ site.baseurl }}/publications/)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2023</div><img src='/images/selected papers/Context Matters_ A Strategy to Pre_train.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2023</div><img src='{{ "/images/selected papers/Context Matters_ A Strategy to Pre_train.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Context matters: A strategy to pre-train language model for science education](https://link.springer.com/chapter/10.1007/978-3-031-36336-8_103) \\
@@ -15,7 +15,7 @@ This study proposes a domain-specific pre-training strategy that significantly i
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='/images/arxiv/2503.24368.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='{{ "/images/arxiv/2503.24368.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation](https://arxiv.org/pdf/2503.24368) \\
@@ -26,7 +26,7 @@ Xiaoran Zhang, Eric Z. Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Boris Maihe, J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='/images/arxiv/2408.08813.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='{{ "/images/arxiv/2408.08813.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Retrieval-Augmented Few-Shot Medical Image Segmentation with Foundation Models](https://arxiv.org/pdf/2408.08813) \\
@@ -37,7 +37,7 @@ Xiaoran Zhang, Eric Z. Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Boris Maihe, J
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLMI 2023</div><img src='/images/selected papers/Tailoring Large Language Models to Radiology_ A Preliminary Approach to LLM Adaptation for a Highly Specialized Domain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLMI 2023</div><img src='{{ "/images/selected papers/Tailoring Large Language Models to Radiology_ A Preliminary Approach to LLM Adaptation for a Highly Specialized Domain.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tailoring large language models to radiology: A preliminary approach to llm adaptation for a highly specialized domain](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_46) \\
@@ -48,10 +48,10 @@ This preliminary study demonstrates the effectiveness of instruction tuning on r
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='/images/selected papers/AgriBERT_ Knowledge_Infused Agricultural Language Models for Matching Food and Nutrition.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='{{ "/images/selected papers/AgriBERT_ Knowledge_Infused Agricultural Language Models for Matching Food and Nutrition.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition](https://www.researchgate.net/profile/Amulya-Yadav-2/publication/362052926_Forecasting_the_Number_of_Tenants_At-Risk_of_Formal_Eviction_A_Machine_Learning_Approach_to_Inform_Public_Policy/links/642eef0320f25554da139319/Forecasting-the-Number-of-Tenants-At-Risk-of-Formal-Eviction-A-Machine-Learning-Approach-to-Inform-Public-Policy.pdf) \\
+[AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition](https://www.researchgate.net/profile/Amulya-Yadav-2/publication/362052926_Forecasting_the_Number_of_Tenants_At-Risk-of-Formal_Eviction_A_Machine_Learning_Approach_to_Inform_Public_Policy/links/642eef0320f25554da139319/Forecasting-the-Number-of-Tenants-At-Risk-of-Formal-Eviction-A-Machine-Learning-Approach-to-Inform-Public-Policy.pdf) \\
 S. Rezayi *, **Z. Liu** *, Z. Wu, C. Dhakal, B. Ge, C. Zhen, T. Liu, and S. Li
 <span style="background-color: #FFF9E6; font-style: italic; border-radius: 2px; font-size: 0.85em; color: #666;">
     (* equal contribution)
@@ -62,7 +62,7 @@ This research presents AgriBERT, a specialized language model pre-trained on agr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='/images/selected papers/Coarse_to_fine Knowledge Graph Domain Adaptation based on.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='{{ "/images/selected papers/Coarse_to_fine Knowledge Graph Domain Adaptation based on.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coarse-to-fine knowledge graph domain adaptation based on distantly-supervised iterative training](https://ieeexplore.ieee.org/abstract/document/10385649) \\
@@ -78,7 +78,7 @@ This paper proposes a coarse-to-fine domain adaptation framework that leverages 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2020</div><img src='/images/selected papers/Let’s gamble_ How a poor visualization can elicit risky behavior.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2020</div><img src='{{ "/images/selected papers/Let's gamble_ How a poor visualization can elicit risky behavior.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Let's gamble: How a poor visualization can elicit risky behavior](https://ieeexplore.ieee.org/abstract/document/9331315) \\
@@ -94,7 +94,7 @@ This study utilizes a large-scale gambling game to demonstrate that while icon a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meta-radiology IF=18.26</div><img src='/images/selected papers/1-s2.0-S2950162823000176-gr2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meta-radiology IF=18.26</div><img src='{{ "/images/selected papers/1-s2.0-S2950162823000176-gr2.jpg" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Summary of ChatGPT-related research and perspective towards the future of large language models](https://www.sciencedirect.com/science/article/pii/S2950162823000176?__cf_chl_tk=9lCFejbbUQWyubIjxmzJWn1JjTdLchNofxxpxPlsS2E-1769171863-1.0.1.1-yNlkF9aYdU5LOs2iGJwRYU4o5ZzwoRl.VZ96eqviwJA) \\
@@ -108,7 +108,7 @@ This paper presents a comprehensive survey of 194 ChatGPT-related studies, provi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBD IF=5.7</div><img src='/images/selected papers/Auggpt_Leveraging chatgpt for text data augmentation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBD IF=5.7</div><img src='{{ "/images/selected papers/Auggpt_Leveraging chatgpt for text data augmentation.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AugGPT: Leveraging ChatGPT for text data augmentation](https://ieeexplore.ieee.org/abstract/document/10858342/) \\
@@ -124,7 +124,7 @@ This paper introduces AugGPT, a data augmentation framework that utilizes ChatGP
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meta-Radiology IF=18.26</div><img src='/images/selected papers/Radiology_GPT_ A Large Language Model for Radiology.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meta-Radiology IF=18.26</div><img src='{{ "/images/selected papers/Radiology_GPT_ A Large Language Model for Radiology.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Radiology-GPT: a large language model for radiology](https://www.sciencedirect.com/science/article/pii/S2950162825000219) \\
@@ -135,7 +135,7 @@ This paper presents Radiology-GPT, a domain-specific large language model develo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Medicine IF=50.0</div><img src='/images/selected papers/A generalist vision_language foundation model for diverse biomedical tasks.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Medicine IF=50.0</div><img src='{{ "/images/selected papers/A generalist vision_language foundation model for diverse biomedical tasks.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2) \\
@@ -146,7 +146,7 @@ This study introduces BiomedGPT, a unified and open-source foundation model pre-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI IF=21.9</div><img src='/images/selected papers/Structure mapping generative adversarial network for multi_view information mapping pattern mining.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI IF=21.9</div><img src='{{ "/images/selected papers/Structure mapping generative adversarial network for multi_view information mapping pattern mining.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structure mapping generative adversarial network for multi-view information mapping pattern mining](https://www.sciencedirect.com/science/article/pii/S2950162825000219) \
