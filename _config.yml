@@ -9,7 +9,7 @@
 title                    : "Zhengliang Liu"
 description              : "A PH.D. student from University of Georgia"
 repository               : "counterdreamer/counterdreamer.github.io/zl-Liu-homepage"
-baseurl                  : "/zl-Liu-homepage" 
+baseurl                  : "/counterdreamer.github.io/zl-Liu-homepage" 
 google_scholar_stats_use_cdn : true
 
 # # google analytics
