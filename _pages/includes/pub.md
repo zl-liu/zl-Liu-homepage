@@ -78,7 +78,7 @@ This paper proposes a coarse-to-fine domain adaptation framework that leverages 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2020</div><img src='{{ "/images/selected papers/Let's gamble_ How a poor visualization can elicit risky behavior.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2020</div><img src='{{ "/images/selected papers/gamble_ How a poor visualization can elicit risky behavior.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Let's gamble: How a poor visualization can elicit risky behavior](https://ieeexplore.ieee.org/abstract/document/9331315) \\
