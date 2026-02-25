@@ -19,5 +19,5 @@ author_profile: true
 ---
 
 <div id="clustrmaps-widget" style="width:20%">
-  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=QUo4CK3quudq08jfoIegrx0bJVK2lXDx0thb7Z1-7Tc'></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=g8Lfxn9R7bJMgBp60QNt8vYkoTwb3VExT5t1q3uL_mM&cl=ffffff&w=a"></script>
 </div>
