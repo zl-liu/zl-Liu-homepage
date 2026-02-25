@@ -56,10 +56,6 @@
 
 - ``IEEE Transactions on Big Data`` Z. Wu, L. Zhang, C. Cao, X. Yu, **Z. Liu**, L. Zhao, Y. Li, H. Dai, C. Ma, G. Li, W. Liu, Q. Li, D. Shen, X. Li, D. Zhu, and T. Liu. Exploring the trade-offs: Unified large language models vs local fine-tuned models for highly-specific radiology nli task. *IEEE Transactions on Big Data*, 2025.
 
-- ``Meta-Radiology`` H. Jiang, Y. Pan, J. Chen, **Z. Liu**, L. Sun, Q. Li, L. Zhang, D. Zhu, X. Wang, W. Liu, X. Li, G. Li, W. Zhang, L. Zhao, X. Yu, Y. Wang, and T. Liu. Quantum Artificial Intelligence: A Comprehensive Survey. *Meta-Radiology*, 2026.
-
-- ``Quantitative Biology`` W. Ruan, Y. Lyu, J. Zhang, J. Cai, P. Shu, Y. Ge, Y. Lu, S. Gao, Y. Wang, P. Wang, L. Zhao, T. Wang, Y. Liu, L. Fang, Z. Liu, **Z. Liu**, Y. Li, Z. Wu, J. Chen, H. Jiang, Y. Pan, Z. Yang, J. Chen, S. Liang, W. Zhang, T. Ma, Y. Dou, J. Zhang, X. Gong, Q. Gan, Y. Zou, Z. Chen, Y. Qian, S. Yu, J. Lu, K. Song, X. Wang, A. Sikora, G. Li, X. Li, Q. Li, Y. Wang, L. Zhang, Y. Abate, L. He, W. Zhong, R. Liu, C. Huang, W. Liu, Y. Shen, P. Ma, H. Zhu, Y. Yan, D. Zhu, and T. Liu. Large language models for bioinformatics. *Quantitative Biology*, 2026.
-
 - ``PLOS Global Public Health`` H. Dai, Y. Li, **Z. Liu**, L. Zhao, Z. Wu, S. Song, S. Ye, D. Zhu, X. Li, S. Li, X. Yao, L. Shi, T. Q. Peng, Q. Li, Z. Chen, D. Zhang, T. Liu, and G. Mai. Ad-autogpt: An autonomous gpt for alzheimer’s disease infodemiology. *PLOS Global Public Health*, 2025.
 
 - ``IEEE Transactions on Neural Networks and Learning Systems`` X. A. Bi, K. Chen, S. Jiang, S. Luo, W. Zhou, Z. Xing, L. Xu, **Z. Liu**, and T. Liu. Community graph convolution neural network for alzheimer’s disease classification and pathogenetic factors identification. *IEEE Transactions on Neural Networks and Learning Systems*, 2023.
@@ -115,6 +111,10 @@
 - ``NeuroImage`` Y. Wu, X. Gao, **Z. Liu**, P. Wang, Z. Wu, Y. Li, T. Zhang, T. Liu, T. Liu, and X. Li. Decoding cortical folding patterns in marmosets using machine learning and large language model. *NeuroImage*, 2025.
 
 - ``IEEE Transactions on Medical Imaging`` Y. Sun, M. A. Dalton, R. D. Sanders, **Z. Liu**, M. Cabezas, Y. Yuan, X. Li, T. Liu, S. L. Naismith, F. Calamante and J. Lv. Age Sensitive Hippocampal Functional Connectivity: New Insights from 3D CNNs and Saliency Mapping. *IEEE Transactions on Medical Imaging*, 2025.
+
+- ``Meta-Radiology`` H. Jiang, Y. Pan, J. Chen, **Z. Liu**, L. Sun, Q. Li, L. Zhang, D. Zhu, X. Wang, W. Liu, X. Li, G. Li, W. Zhang, L. Zhao, X. Yu, Y. Wang, and T. Liu. Quantum Artificial Intelligence: A Comprehensive Survey. *Meta-Radiology*, 2026.  
+
+- ``Quantitative Biology`` W. Ruan, Y. Lyu, J. Zhang, J. Cai, P. Shu, Y. Ge, Y. Lu, S. Gao, Y. Wang, P. Wang, L. Zhao, T. Wang, Y. Liu, L. Fang, Z. Liu, **Z. Liu**, Y. Li, Z. Wu, J. Chen, H. Jiang, Y. Pan, Z. Yang, J. Chen, S. Liang, W. Zhang, T. Ma, Y. Dou, J. Zhang, X. Gong, Q. Gan, Y. Zou, Z. Chen, Y. Qian, S. Yu, J. Lu, K. Song, X. Wang, A. Sikora, G. Li, X. Li, Q. Li, Y. Wang, L. Zhang, Y. Abate, L. He, W. Zhong, R. Liu, C. Huang, W. Liu, Y. Shen, P. Ma, H. Zhu, Y. Yan, D. Zhu, and T. Liu. Large language models for bioinformatics. *Quantitative Biology*, 2026.
 
 
 ## Conferences
