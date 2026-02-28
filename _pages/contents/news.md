@@ -2,7 +2,7 @@
 ## 2026
 - *2026.02*: One paper on Quantum Artificial Intelligence is accepted by **Meta-Radiology**.
 - *2026.01*: Invited to serve as a Program Committee Member for the **International Conference on Artificial Intelligence in Education (AIED)**.
-- *2026.01*: One paper on Large language models for bioinformatics will appear in **Quantitative Biology*.
+- *2026.01*: One paper on Large language models for bioinformatics will appear in **Quantitative Biology**.
 - *2026.01*: One paper on NISQ-Aware Quantum Adapter for Medical Vision-Language Models is accepted by **ISBI**.
 
 ## 2025
